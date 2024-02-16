@@ -1,5 +1,4 @@
-# TITLE
-Torch.AI one of America's Best AI Companies
+# Torch.AI one of America's Best AI Companies
 ## Overview and Origin
 
 * Name of company - Torch.AI
