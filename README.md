@@ -13,7 +13,7 @@ pre[class*=language-]
 * <span style="color:grey">Who are the founders of the company? ([Torch.ai Website](https://www.torch.ai/)) </span>
 > <ol><li>Brian Weaver Founder</li> <li>Cha (full name) Government Contact</li><li>Bob Owens Chief Delivery Officer</li><li>Jon Kramer Chief Technology Officer</li></ol>
 
-* <span style="color:grey">How did the idea for the company come about? </style>
+* <span style="color:grey">How did the idea for the company come about? </span>
 
 > A Letter from Torch.ai CEO Brian Weaver For Humanity March 10, 2023 ([Torch.ai Website](https://www.torch.ai/)):
 >
@@ -59,22 +59,22 @@ pre[class*=language-]
 > Products:
 > <ol><li> Nexus™ - Connect and manage all of your enterprise data. The highest performance data processing platform ever built. </li> <li> Prism - Quickly get the information you need. Automated data extraction for critical mission intelligence. </li> <li> Halo - True real-time all source data fusion. Next generation knowledge graph moving intelligence to the tactical edge. </li></ol>
 
-* <span style="color:red">Note: The technology stack used by Torch.ai is considered compartmentalized government classified information. </style>
+* <span style="color:red">Note: The technology stack used by Torch.ai is considered compartmentalized government classified information. </span>
 ## Landscape
 
-* <span style="color:grey">What field is the company in? ([Pitchbook](https://pitchbook.com/profiles/company/232606-27)) </style> 
+* <span style="color:grey">What field is the company in? ([Pitchbook](https://pitchbook.com/profiles/company/232606-27)) </span> 
 > AI Productivity Software and Services 
 
 * <span style="color:grey">What have been the major trends and innovations of this field over the last 5&ndash;10 years? ([Pluralsights](https://www.linkedin.com/pulse/pluralsights-latest-research-while-ai-booming-human-remains-skonnard-oaj6c/)) </style>
 > According to PluralSight AI skills report, 20% of organizations have formally deployed AI-related technologies and tools, and 55% plan on it soon. But without tech, business, and upskilling strategies driven by customer needs, adoption won’t translate to customer value.
 
-* <span style="color:grey">What are the other major companies in this field? ([Pitchbook](https://pitchbook.com/profiles/company/232606-27#overview)) </style>
+* <span style="color:grey">What are the other major companies in this field? ([Pitchbook](https://pitchbook.com/profiles/company/232606-27#overview)) </span>
 >
 ><ol><li>Velostrata	Formerly VC-backed	San Mateo, CA</li><li>AppXite	Corporation	Riga, Latvia</li><li>Tamr	Venture Capital-Backed	Cambridge, MA</li><li>ActivePlatform	Private Equity-Backed	Minsk, Belarus	</li><li>ownCloud	Formerly VC-backed	Nuremberg, Germany</li></ol>				
 
 ## Results
 
-* <span style="color:grey">What has been the business impact of this company so far? ([PR Newswire](https://www.prnewswire.com/news-releases/2022-first-half-review-torchai-delivers-greater-customer-impact-sets-stage-for-breakout-year-even-in-the-midst-of-market-uncertainty-301584296.html)):</style>
+* <span style="color:grey">What has been the business impact of this company so far? ([PR Newswire](https://www.prnewswire.com/news-releases/2022-first-half-review-torchai-delivers-greater-customer-impact-sets-stage-for-breakout-year-even-in-the-midst-of-market-uncertainty-301584296.html)):</span>
 
 ```Torch.AI has been on a growth tear, with a 21.9% average annual revenue growth rate between 2019 and 2021, according to the Kansas City Business Journal``` ([Kansas City Biz](https://www.bizjournals.com/kansascity/news/2022/08/08/torch-ai-wins-navy-contract-digital-warfare.html)) 
 
@@ -85,7 +85,7 @@ pre[class*=language-]
 >
 > Torch.AI boasts 45% growth in 2022, according to their new CFO, Amy Bradshaw, ```It's impressive. Even in periods of shaky market conditions, our customers are buying and see the value Torch.AI brings. Over the next 12 months, increased investment in product, engineering, and marketing and sales will continue to support public sector growth and fuel our commercial go-to-market strategy, Torch.AI has seen significant growth in both the commercial and public sectors from the adoption of its software platform, Nexus.``` 
 
-* <span style="color:grey">What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? ([PR Newswire](https://www.prnewswire.com/news-releases/2022-first-half-review-torchai-delivers-greater-customer-impact-sets-stage-for-breakout-year-even-in-the-midst-of-market-uncertainty-301584296.html))</style>
+* <span style="color:grey">What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? ([PR Newswire](https://www.prnewswire.com/news-releases/2022-first-half-review-torchai-delivers-greater-customer-impact-sets-stage-for-breakout-year-even-in-the-midst-of-market-uncertainty-301584296.html))</span>
 
 > <ol><li>Employer Reputation – Companies were assessed via blog posts and social media specifically around corporate culture and employee engagement.</li><li>Employee Satisfaction – Online reviews were combed through to gain a firm grasp on employee happiness and fulfillment.</li><li>Company Growth – Website traffic, as well as headcounts over a two-year period were reviewed.</li></oi>
 
@@ -94,19 +94,19 @@ pre[class*=language-]
 
 ## Recommendations
 
-* <span style="color:grey">If you were to advise the company, what products or services would you suggest they offer? </style>
+* <span style="color:grey">If you were to advise the company, what products or services would you suggest they offer? </span>
 > Offer an AI Governance product (framework) and service that integrates with their products in response to growing demand for ethical AI.
 > ```Artificial intelligence governance is the legal framework for ensuring AI and machine learning technologies are researched and developed with the goal of helping humanity adopt and use these systems in ethical and responsible ways. (source Holistic AI)```
 
 * <span style="color:grey">Why do you think that offering this product or service would benefit the company? ([IBM-AI Governance](https://www.ibm.com/topics/ai-governance#Why+is+AI+governance+important%3F))</style>
 > ```AI governance is essential for reaching a state of compliance, trust and efficiency in developing and applying AI technologies. With AI's increasing integration into organizational and governmental operations, its potential for negative impact has become more visible. High-profile missteps like the Tay chatbot incident, where a Microsoft AI chatbot learned toxic behavior from public interactions on social media and the COMPAS software's biased sentencing decisions have highlighted the need for sound governance to prevent harm and maintain public trust.```
 
-* <span style="color:grey">What technologies would this additional product or service utilize? ([Holistic AI](https://www.holisticai.com/blog/ai-governance)) </style>
+* <span style="color:grey">What technologies would this additional product or service utilize? ([Holistic AI](https://www.holisticai.com/blog/ai-governance)) </span>
 >```Implementing AI governance in an organisation requires a systematic approach. It begins with familiarising oneself with all relevant ethical principles, legal requirements, and industry guidelines.```
 > ```Next, organisations should assess – or commission an independent third-party to assess – their existing AI systems, data practices, and policies. This way, they can identify any gaps or areas for improvement.```
 >```Lastly, establishing monitoring mechanisms and conducting regular audits is crucial. This facilitates the assessment of the effectiveness of your AI governance practices.```
 
-* <span style="color:grey">Why are these technologies appropriate for your solution? </style>
+* <span style="color:grey">Why are these technologies appropriate for your solution? </span>
 
 The products offered by Torch.ai are very complex.  Proper Governance of these products will require a deep understanding of both how these products were built as well as a strong understanding of Governance frameworks.
 
