@@ -65,7 +65,7 @@ pre[class*=language-]
 * <span style="color:grey">What field is the company in? ([Pitchbook](https://pitchbook.com/profiles/company/232606-27)) </span> 
 > AI Productivity Software and Services 
 
-* <span style="color:grey">What have been the major trends and innovations of this field over the last 5&ndash;10 years? ([Pluralsights](https://www.linkedin.com/pulse/pluralsights-latest-research-while-ai-booming-human-remains-skonnard-oaj6c/)) </style>
+* <span style="color:grey">What have been the major trends and innovations of this field over the last 5&ndash;10 years? ([Pluralsights](https://www.linkedin.com/pulse/pluralsights-latest-research-while-ai-booming-human-remains-skonnard-oaj6c/)) </span>
 > According to PluralSight AI skills report, 20% of organizations have formally deployed AI-related technologies and tools, and 55% plan on it soon. But without tech, business, and upskilling strategies driven by customer needs, adoption won’t translate to customer value.
 
 * <span style="color:grey">What are the other major companies in this field? ([Pitchbook](https://pitchbook.com/profiles/company/232606-27#overview)) </span>
@@ -89,7 +89,7 @@ pre[class*=language-]
 
 > <ol><li>Employer Reputation – Companies were assessed via blog posts and social media specifically around corporate culture and employee engagement.</li><li>Employee Satisfaction – Online reviews were combed through to gain a firm grasp on employee happiness and fulfillment.</li><li>Company Growth – Website traffic, as well as headcounts over a two-year period were reviewed.</li></oi>
 
-* <span style="color:grey">How is your company performing relative to competitors in the same field? ([Torch.ai-Forbs](https://www.torch.ai/newsroom/forbes-names-torch-ai-one-of-americas-best-startup-employers))</style>
+* <span style="color:grey">How is your company performing relative to competitors in the same field? ([Torch.ai-Forbs](https://www.torch.ai/newsroom/forbes-names-torch-ai-one-of-americas-best-startup-employers))</span>
 > ``` Torch.AI, the leader in artificial intelligence (AI) powered data processing, has been recognized by Forbes as one of America's Best Startup Employers in 2022. Presented to just 500 companies across the U.S., the recognition highlights Torch.AI's growing reputation.```
 
 ## Recommendations
@@ -98,7 +98,7 @@ pre[class*=language-]
 > Offer an AI Governance product (framework) and service that integrates with their products in response to growing demand for ethical AI.
 > ```Artificial intelligence governance is the legal framework for ensuring AI and machine learning technologies are researched and developed with the goal of helping humanity adopt and use these systems in ethical and responsible ways. (source Holistic AI)```
 
-* <span style="color:grey">Why do you think that offering this product or service would benefit the company? ([IBM-AI Governance](https://www.ibm.com/topics/ai-governance#Why+is+AI+governance+important%3F))</style>
+* <span style="color:grey">Why do you think that offering this product or service would benefit the company? ([IBM-AI Governance](https://www.ibm.com/topics/ai-governance#Why+is+AI+governance+important%3F))</span>
 > ```AI governance is essential for reaching a state of compliance, trust and efficiency in developing and applying AI technologies. With AI's increasing integration into organizational and governmental operations, its potential for negative impact has become more visible. High-profile missteps like the Tay chatbot incident, where a Microsoft AI chatbot learned toxic behavior from public interactions on social media and the COMPAS software's biased sentencing decisions have highlighted the need for sound governance to prevent harm and maintain public trust.```
 
 * <span style="color:grey">What technologies would this additional product or service utilize? ([Holistic AI](https://www.holisticai.com/blog/ai-governance)) </span>
